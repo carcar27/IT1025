@@ -1,4 +1,5 @@
-## Your Name / Date
+## Carley Stover![Lab 1](https://user-images.githubusercontent.com/89818167/131933167-69b54f01-d6a7-4d62-b03a-54129427165b.png)
+ / Date
 
 ## Executive Summary
 This is an example, please delete and create your own professional summary:
