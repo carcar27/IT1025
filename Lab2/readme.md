@@ -13,9 +13,9 @@ The purpose of Lab 2 is to teach us about the internal parts of the computer. Th
 ### Logic Gates - A Truth Table is meant to summarize the and/or tables quickly and simply. AND Gate Truth Table only has an output if both inputs are filled, whereas the OR Gate Truth Table has an ouput even if only one input is filled. 
 ### IEEE - Ethically Aligned Design - The purpose of IEEE is to advance technology, their focus is to foster awareness on technical issues, promote ethical behavior in the technical field, and create a world where engineers and scientists are respected for their ethical behavior. 
 
-## Data Representation
-### Decimal, Binary and Hexadecimal - decimal goes by 10, binary has base 2, and hexidecimal has bas 16.
-### Hexadecimal Color Representation
+## Data Representation - the way that the physical properties of a medium are used to represent data.
+### Decimal, Binary and Hexadecimal - decimal goes by 10, binary has base 2, and hexidecimal has base of 16.
+### Hexadecimal Color Representation - the color #ab00ff represents a purple hue. It would be problematic for website usage because it's high in red and it's complimentary color is green and most people who are colorblind have a sensitivity to reds and greens.
 
 ## Conclusion
-Include your conclusion here...
+Why are more men painters in the car industry than women? I ask this due to only 0.5% of women and 8% of men are color sensitive. I didn't know converting decimals into different types would be as easy as it is. This lab truly gave me a deeper understanding of computers and how they work faster. Although this lab had a lot more to do within it, it was much easier than Lab 1 since I actually knew what I was doing. 
