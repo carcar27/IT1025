@@ -16,7 +16,7 @@ I didn't know there were two different ways to view graphics. The amount of data
 ### Raster vs. Vector Graphics:Vector graphics are digital art that is rendered by a computer using a mathematical formula. Raster images are made up of tiny pixels, making them resolution dependent and best used for creating photos. Vector graphics would be more appropriate to use due to when zooming in, the images do not pixelate.
 ### Lossless vs. Lossy Compression: lossless image compression means all the data from the original file is preserved. Lossy compression, on the other hand, removes some data from the original file and saves the image with a reduced file size.
 ### File Formats: JPEG works best for storing full cover images full of complex shading and color variation. GIF as it is newer supports more colors and is free of patent restrictions PNG cannot be used for animations but offers highly sophisticated transparency and color support among other features.
-### File Properties: 
+### File Properties: Under file properties you can find the size of the file, when it was created, when it was last modified, and it's also where you can change how to open the file. 
 
 ## Conclusion
 
