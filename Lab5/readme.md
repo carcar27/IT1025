@@ -3,7 +3,7 @@
 ## Executive Summary 
 It was nice to learn more about things we use in everyday life such as authentication and routers. I didn't realize that an IP address was a number that identifies a specific website. After reading about cybersecurity, I'm not sure if that is what I will continue to pursue once I graduate. 
 
-## Lucidchart
+## Lucidchart: I've learned that using Lucidchart, it makes it easy to map out certain things. It was fun to use and figure out how it works. Anyone can really use this program which makes it super user friendly.
 
 ## Introduction to Networking: Network communication is full of some very technical concepts based on simple principles.
 
