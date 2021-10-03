@@ -1,7 +1,7 @@
-## Carley Stover / Date
+## Carley Stover / 10/3/21
 
 ## Executive Summary 
-Include your executive summary here...
+It was nice to learn more about things we use in everyday life such as authentication and routers. I didn't realize that an IP address was a number that identifies a specific website. After reading about cybersecurity, I'm not sure if that is what I will continue to pursue once I graduate. 
 
 ## Lucidchart
 
@@ -30,7 +30,7 @@ Include your executive summary here...
 ### Information Systems Security
 
 #### Security Triad
-#### Authentication
+#### Authentication - Clocking in and out at work, Logging in and out of social media, Logging in and out of My Tri-C Space. These can be converted to multi-factor authentication by using Face-ID on our phones, using a pin to login, or using fingerprints as a way of logging in that are all linked to your specific email/ID.
 #### ACL and RBAC: An ACL is a list of user permissions for a file, folder, or other object. ACLs are simple to understand and maintain. The primary drawback is that each information resource is managed separately. RBAC allows permissions to be assigned to roles. Improving compliance. All organizations are subject to federal, state and local regulations. Not involving business users during the process of defining roles    
 #### Ciphertext, Public Key and Private Key: the sender on the left creates a plaintext message which is then encrypted with a public key. The ciphered text is transmitted through the communication channel and the recipient uses their private key to decrypt the message and then read the plain text.
 #### Public Key Cryptography: Public key Encryption is important because it is infeasible to determine the decryption key given only the knowledge of the cryptographic algorithm and encryption key.
@@ -39,10 +39,10 @@ Include your executive summary here...
 #### Encryption:cryptography is a growing field- lahcxpajyqh rb j paxfrwp ornum (10 letter shift)
 #### Frequency Fingerprint: we use a lot of vowel is our words 
 #### Polyalphabetic Cipher: A polyalphabetic cipher is any cipher based on substitution, using multiple substitution alphabets. 
-#### Polyalphabetic Example: Its a werid way to encrytion things. 
+#### Polyalphabetic Example: Its a weird way to encrytion things. 
 
 #### Brute-Force: A brute-force attack tries every possible decryption key for a cipher.
 
 ## Conclusion
-Include your professional conclusion here...
+After looking further into the Cybersecurity side of our field, it doesn't seem as big of an interest to me. I also thought it was interesting the encryption dates all the way back to Caesar. I didn't realize that I used different ways of authentication every day.
 
