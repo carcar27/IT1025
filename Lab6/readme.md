@@ -24,9 +24,9 @@ to the Internet. IPv4 addresses are written as a string of four numbers between 
 ### Risk Explained: One problem with using ActiveX in a web browser is that it greatly increases the attack surface, or “attackability,” of a system. Installing any Windows application introduces the possibility of new ActiveX controls being installed. Vulnerabilities in ActiveX objects may be exploited via Internet Explorer, even if the object was never designed to be used in a web browser
 
 ## Internet Programming
-### World Wide Web Consortium
-### HTML5 and CSS
-### HTML and XML
+### World Wide Web Consortium: The World Wide Web Consortium achieves its mission by bringing diverse stake-holders together, under a clear and effective consensus-based process to develop high-quality standards based on contributions from the W3C Members, staff, and the community at large. is an English computer scientist best known as the inventor of the World Wide Web. Extensible Markup Language (XML) is used to describe data. The XML standard is a flexible way to create information formats and electronically share structured data via the public Internet, as well as via corporate networks. 
+### HTML5 and CSS: CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens, or printers. CSS is independent of HTML and can be used with any XML-based markup language.
+### HTML and XML: XML is the acronym from Extensible Markup Language (meta-language of noting/marking). XML is a resembling language with HTML. It was developed for describing data. The XML tags are not pre-defined in XML. You will have to create tags according to your needs.
 
 ## Components of a URL :domain- www.amazon.com , top level domain-.edu, scheme- https, default page- result of search, parameters- no file path provided, anchor- specific location on a page 
 
