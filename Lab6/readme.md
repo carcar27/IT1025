@@ -1,7 +1,7 @@
 ## Carley Stover / Date
 
 ## Executive Summary 
-Include your executive summary here...
+It was nice learning about Tim Berners Lee and how he created W3C. It was also nice learning about all the different layers for applications. The risks were also super interesting to read about as anything we use could potentially have a risk of either a hacker or spam mail.
 
 ## Internet Architecture
 ### Internet Protocol
@@ -30,4 +30,4 @@ Include your executive summary here...
 ## Components of a URL :domain- www.amazon.com , top level domain-.edu, scheme- https, default page- result of search, parameters- no file path provided, anchor- specific location on a page 
 
 ## Conclusion
-Include your conclusion here...
+I already learned about the domain names when I was in computer class at OTC. There were LOTS of images included in this lab and while submitting I had to make a list of all of them to make sure they're all included. While trying to upload my image to my web page I did have a hard time getting them to show up properly. I hope that it is good enough as I tried everything I could to make it work.
