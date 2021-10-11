@@ -5,14 +5,13 @@ Include your executive summary here...
 
 ## Internet Architecture
 ### Internet Protocol
-#### IP Address: Internet Protocol (IP) addresses are the unique numbers assigned to every computer or device that is connected 
-to the Internet. IPv4 addresses are written as a string of four numbers between 0 and 255, separated by dots. IPv6 addresses are considerably longer strings of numbers, so they are written using hexadecimals, which can fit more information into fewer digits. 
+#### IP Address: Internet Protocol (IP) addresses are the unique numbers assigned to every computer or device that is connected to the Internet. IPv4 addresses are written as a string of four numbers between 0 and 255, separated by dots. IPv6 addresses are considerably longer strings of numbers, so they are written using hexadecimals, which can fit more information into fewer digits. 
 #### ICANN: It is a not-for-profit partnership of people from all over the world dedicated to keeping the Internet secure, stable and interoperable. It promotes competition and develops policy on the Internet’s unique identifiers.
 
 ### TCP/IP: TCP/IP stands for “Transmission Control Protocol / Internet Protocol”. 
 #### Responsibility of TCP/IP: It is basically a network protocol that defines the details of how data is sent and received through network adapters, hubs, switches, routers and other network communications hardware. 
 #### Client-Server Model and TCP/IP: The “Client” in a TCP/IP connection is the computer or device that “dials the phone” and the “Server” is the computer that is “listening” for calls to come in.  
-#### Layers: The answer is that any of the layers/tasks can be changed without affecting the other layers.
+#### Layers: Network layers are important because they enable developers to work at their appropriate levels, and ensure that everyone is able to run everything on their own.
 #### Application Layer: SMTP,FTP,HTTP,POP3,IMAP4,SNMP
 
 ## Internet Security
@@ -24,7 +23,7 @@ to the Internet. IPv4 addresses are written as a string of four numbers between 
 ### Risk Explained: One problem with using ActiveX in a web browser is that it greatly increases the attack surface, or “attackability,” of a system. Installing any Windows application introduces the possibility of new ActiveX controls being installed. Vulnerabilities in ActiveX objects may be exploited via Internet Explorer, even if the object was never designed to be used in a web browser
 
 ## Internet Programming
-### World Wide Web Consortium: The World Wide Web Consortium achieves its mission by bringing diverse stake-holders together, under a clear and effective consensus-based process to develop high-quality standards based on contributions from the W3C Members, staff, and the community at large. is an English computer scientist best known as the inventor of the World Wide Web. Extensible Markup Language (XML) is used to describe data. The XML standard is a flexible way to create information formats and electronically share structured data via the public Internet, as well as via corporate networks. 
+### World Wide Web Consortium: The World Wide Web Consortium achieves its mission by bringing diverse stake-holders together, under a clear and effective consensus-based process to develop high-quality standards based on contributions from the W3C Members, staff, and the community at large. Tim Berner's Lee is an English computer scientist best known as the inventor of the World Wide Web. Extensible Markup Language (XML) is used to describe data. The XML standard is a flexible way to create information formats and electronically share structured data via the public Internet, as well as via corporate networks. 
 ### HTML5 and CSS: CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens, or printers. CSS is independent of HTML and can be used with any XML-based markup language.
 ### HTML and XML: XML is the acronym from Extensible Markup Language (meta-language of noting/marking). XML is a resembling language with HTML. It was developed for describing data. The XML tags are not pre-defined in XML. You will have to create tags according to your needs.
 
