@@ -4,7 +4,7 @@ Carley Stover 10/21/2021
 
 The overview of my selected option is as 3 page paper that includes information on 3 different careers. I also wrote about their salaries and why they have interested me into possibly pursuing them as my long-term career. 
 
-### Part Part 2: Project
+### Part 2: Research Paper
 
 My project is a research paper about the jobs I have investigated as a part of this field. There are 3 pages including all of my works cited. 
 
