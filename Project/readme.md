@@ -1,19 +1,14 @@
-### Your Name / Date
+Carley Stover 10/21/2021
 
 ### Executive Summary
 
-Include your executive summary
+The overview of my selected option is as 3 page paper that includes information on 3 different careers. I also wrote about their salaries and why they have interested me into possibly pursuing them as my long-term career. 
 
-### Part Part 1: Project Intent and Plan
+### Part Part 2: Project
 
-Describe the process you will take to become co-op ready (include dates of seminars you will plan if you elect Option 1 OR, a brief description of the project you plan to implement (programming, research etc.)
-
-
-If you elected option 1 describe the process you followed to become co-op ready and the name of your career coach OR, for option 2, present your program, application, reach etc.  There is no specific guidelines on the length or development success.  Some students plan on creating an app and find that they only got to determining the full purpose, outcomes and technology which is fine.  The purpose of the project is to take a topic of particular interest to you and spend some more time to gain a deeper level of understanding.
-
-See Blackboard for details
+My project is a research paper about the jobs I have investigated as a part of this field. There are 3 pages including all of my works cited. 
 
 ### Conclusion
 
-Include your conclusion
+The conclusion that I have made is that there are so many different routes that we could go into the IT field. The three that I chose to write about have interested me the most. 
 
