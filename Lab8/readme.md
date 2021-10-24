@@ -1,7 +1,7 @@
-## Your Name / Date
+## Carley Stover 10/20/21
 
 ## Executive Summary 
-Include your executive summary here...
+I didn't realize during the SQL reading that those things were able to be done. I didn't know that SQL injection attacks could happen, I didn't know anything about them. It was nice having a refresher about HIPPA.
 
 ## Data, Information and Knowledge
 ### Compare and contrast data, information and knowledge: Data are the raw facts, and may be devoid of context or intent. Information is processed data that possess context, relevance, and purpose. Knowledge in a certain area is human beliefs or perceptions about relationships among facts or concepts relevant to that area. The words data, information, and knowledge are often used interchangeably.    
@@ -28,4 +28,4 @@ Include your executive summary here...
 ### Information Collection: comply with COPPA, organizations must make a good-faith effort to determine the age of those accessing their websites and, if users are under thirteen years old, must obtain parental consent before collecting any information. FERPA- this law specifies that parents have a right to their child’s educational information until the child reaches either the age of eighteen or begins attending school beyond the high school level. At that point, control of the information is given to the child. HIPPA- This law gives patients specific rights to control their medical records, requires health care providers and others who maintain this information to get specific permission in order to share it, and imposes penalties on the institutions that breach this trust.
 
 ## Conclusion
-Include your conclusion here...
+The SQL "try it" section was a little hard at first but once I found what I was doing, it was much easier. I really enjoyed this class and I'm glad that I was able to take part in it. It really opened my horizons into the programming world. 
